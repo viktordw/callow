@@ -19,3 +19,4 @@ Takođe je potrebno preuzeti i odgovarajuću listu, odnosno rečnik, često kori
 
 Lista koja se nalazi u ovom repozitorijumu je preuzeta sa sledeće stranice:
 [https://github.com/scipag/password-list/blob/main/overall/password-list-all.txt](https://github.com/scipag/password-list/blob/main/overall/password-list-all.txt)
+i nalazi se u fajlu [password-list-all.txt](password-list-all.txt)
