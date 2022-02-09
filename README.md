@@ -7,7 +7,7 @@ Povezana stranica na stackowerflow:
 
 [https://stackoverflow.com/questions/29858752/error-message-chromedriver-executable-needs-to-be-available-in-the-path](https://stackoverflow.com/questions/29858752/error-message-chromedriver-executable-needs-to-be-available-in-the-path)
 
-Primenjena je izmena sa navedene strnice.
+Primenjena je izmena sa navedene stranice.
 
 Ova stranica je sačuvana i u html-u za slučaj da stranica na stackoverflow u nekom trenutku postane nedostupna: [chromedriver-fix.html](./chromedriver-fix.html)
 
